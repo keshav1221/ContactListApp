@@ -1,6 +1,8 @@
 # contact
 
-A new Flutter project.
+The Contacts app can be used to view a contact list, call a particular contact from that list, dial a number to call, add new contacts, view call logs, search for any number of names in the contact list.
+Apart from all these functions, It also has a list of frequently contacted numbers which is generally not available in normal contact applications present on the mobile phone.
+
 
 ## Getting Started
 
